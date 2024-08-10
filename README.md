@@ -1,5 +1,8 @@
 # Hi there, I'm Jayesh Kolambkar 👋
 
+## Dev Card
+<a href="https://app.daily.dev/jayeshkolambkar"><img src="https://api.daily.dev/devcards/v2/vWJGQNhllAEGJOi2E5esb.png?r=qan&type=default" width="356" alt="Jayesh Kolambkar's Dev Card"/></a>
+
 ## About Me
 I'm a passionate Software Developer specializing in building efficient and scalable web applications. With a focus on full-stack development, I work with technologies like Node.js, React, and PostgreSQL to create robust solutions.
 
@@ -14,7 +17,7 @@ A collaborative documentation platform developed using Next.js, featuring authen
 A web application for creating and managing resumes, designed to simplify the process of building and updating professional resumes.
 
 ## Skills
-**Languages**: Java 
+**Languages**: Java  
 
 **Databases**: MySQL  
 
@@ -22,9 +25,6 @@ A web application for creating and managing resumes, designed to simplify the pr
 
 ## GitHub Stats
 [![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayeshK20&show_icons=true&theme=radical)](https://github.com/JayeshK20)
-
-## Dev Card
-<a href="https://app.daily.dev/jayeshkolambkar"><img src="https://api.daily.dev/devcards/v2/vWJGQNhllAEGJOi2E5esb.png?r=qan&type=default" width="356" alt="Jayesh Kolambkar's Dev Card"/></a>
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jayesh-kolambkar-9b0185246/)
