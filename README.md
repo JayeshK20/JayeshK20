@@ -15,7 +15,9 @@ A web application for creating and managing resumes, designed to simplify the pr
 
 ## Skills
 **Languages**: Java 
+
 **Databases**: MySQL  
+
 **Tools**: GitHub Actions, Sentry
 
 ## GitHub Stats
