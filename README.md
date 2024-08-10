@@ -14,10 +14,9 @@ A collaborative documentation platform developed using Next.js, featuring authen
 A web application for creating and managing resumes, designed to simplify the process of building and updating professional resumes.
 
 ## Skills
-**Languages**: Java, JavaScript, Python  
-**Frameworks**: Node.js, React, Next.js  
-**Databases**: PostgreSQL, MongoDB  
-**Tools**: Docker, GitHub Actions, Sentry
+**Languages**: Java  
+**Databases**: MySQL 
+**Tools**: GitHub Actions
 
 ## GitHub Stats
 [![Jayesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JayeshK20&show_icons=true&theme=radical)](https://github.com/JayeshK20)
